@@ -22,19 +22,25 @@ Software developer in Tokyo🔭🗼
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masa7452&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Masa7452&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masa7452&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masa7452&theme=dark&count_private=true" alt="Streak Stats" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masa7452&theme=github" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masa7452&theme=github&count_private=true" alt="Contribution Graph" />
+</p>
+
+## 🔝 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masa7452&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </p>
 
 <h3 align="center">Thanks for visiting! Feel free to connect and collaborate 😊</h3>
