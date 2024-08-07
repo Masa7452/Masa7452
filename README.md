@@ -7,7 +7,3 @@
 ## My Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Masa7452&theme=github)
-
-## Languages I Use Most
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masa7452&layout=compact&theme=radical)
