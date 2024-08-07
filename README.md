@@ -19,12 +19,6 @@ Software developer in Tokyo🔭🗼
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masa7452&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -35,12 +29,6 @@ Software developer in Tokyo🔭🗼
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masa7452&theme=github&count_private=true" alt="Contribution Graph" />
-</p>
-
-## 🔝 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masa7452&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </p>
 
 <h3 align="center">Thanks for visiting! Feel free to connect and collaborate 😊</h3>
