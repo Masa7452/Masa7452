@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Software developer in Tokyo🔭🗼
+Software developer based in Tokyo🔭🗼
 
 ## 🛠️ Technologies & Tools
 
