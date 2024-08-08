@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile🚀</h1>
+<h1 align="center">Welcome to my profile 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Open+Source+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
